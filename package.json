@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RanaAlkhoudari/DNS-server/issues"
   },
-  "homepage": "https://github.com/RanaAlkhoudari/DNS-server#readme"
+  "homepage": "https://github.com/RanaAlkhoudari/DNS-server#readme",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
 }
